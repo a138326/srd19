@@ -1,0 +1,32 @@
+/*
+–––––––––––––––––––––––––––––––––––––––
+Nav
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+.showcase-section-wrapper {
+	display: flex;
+}
+.showcase-section {
+	padding: var(--sp-09);
+	margin: 0 var(--sp-04); 
+}
+.showcase-section-reverse {
+	background-color: var(--c03-gray-02);
+	background-color: var(--c01-dark);
+}
+.showcase-section h1 {
+	font-size: var(--hd-size-04);
+	color: var(--c03-gray-01);
+	margin-bottom: var(--sp-04);
+}
+.showcase-section p {
+	font-size: var(--body-size-smallest);
+	color: var(--c03-gray-02);
+	padding-top: var(--sp-03);
+}
+.showcase-section.showcase-section-reverse h1,
+.showcase-section.showcase-section-reverse  p {
+	color: #fff;
+}
+.showcase-section .sc-item {
+	padding: var(--sp-03) 0;
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>load-primary</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <path d="M12,2 C6.48608696,2 2,6.48589192 2,11.9995652 C2,17.5141081 6.48608696,22 12,22 C17.513913,22 22,17.5141081 22,11.9995652" id="load-primary" stroke="#333333" stroke-width="4"></path>
+    </g>
+</svg>

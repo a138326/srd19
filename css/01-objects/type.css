@@ -1,0 +1,46 @@
+/*
+–––––––––––––––––––––––––––––––––––––––
+Headings
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+.hd-xl {
+	margin-bottom: var(--sp-04);
+}
+.hd-lg {
+	margin-bottom: var(--sp-03);
+}
+.hd-md {
+	margin-bottom: var(--sp-02);
+}
+.hd-sm {
+	margin-bottom: var(--sp-02);
+}
+.hd-xs {
+	margin-bottom: var(--sp-02);
+}
+.hd-xxs {
+	margin-bottom: var(--sp-02);
+}
+
+
+/*
+–––––––––––––––––––––––––––––––––––––––
+Body copy
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+.bd-xl {
+	margin-bottom: var(--sp-05);
+}
+.bd-lg {
+	margin-bottom: var(--sp-04);
+}
+.bd-md {
+	margin-bottom: var(--sp-04);
+}
+.bd-sm {
+	margin-bottom: var(--sp-03);
+}
+.bd-xs {
+	margin-bottom: var(--sp-03);
+}
+.bd-xxs {
+	margin-bottom: var(--sp-02);
+}

@@ -1,0 +1,103 @@
+:root {
+
+
+/* Primary Colours */
+--c01-light: #00DFED;
+--c01-dark: #001CB0;
+
+
+/* Secondary Colours */ 
+--c02-success-light: #50E3C2;
+--c02-success-dark: #2CAA18;
+--c02-warning-light: #F80EC5;
+--c02-warning-dark: #FD334C;
+--c02-inform-light: #9D15FF;
+--c02-inform-dark: #6031A6;
+--c02-action-light: #FFE344;
+--c02-action-dark: #F6A623;
+
+
+/* Neutral Colours */
+--c03-gray-01: #333333;
+--c03-gray-02: #666666;
+--c03-gray-03: #999999;
+--c03-gray-04: #CCCCCC;
+--c03-gray-05: #E8E8E8;
+--c03-gray-06: #F5F5F5;
+--c03-gray-07: #F9F9F9;
+--c03-gray-08: #FFFFFF;
+
+
+/* Fonts */
+--font-hd: 'Titillium Web', sans-serif;
+--font-bd: 'Open Sans', sans-serif;
+
+
+/* headings */
+--hd-size-xl: 64px;
+--hd-size-lg: 56px;
+--hd-size-md: 48px;
+--hd-size-sm: 40px;
+--hd-size-xs: 32px;
+--hd-size-xxs: 24px;
+
+--hd-line-height: 1.25;
+--hd-weight: 300;
+
+
+/* body copy */
+--bd-size-xl: 24px;
+--bd-size-lg: 18px;
+--bd-size-md: 16px;
+--bd-size-sm: 14px;
+--bd-size-xs: 12px;
+--bd-size-xxs: 10px;
+
+--bd-line-height: 1.5;
+--bd-weight: 400;
+
+
+/* Spacing */
+--sp-01: 4px;
+--sp-02: 8px;
+--sp-03: 16px;
+--sp-04: 24px;
+--sp-05: 32px;
+--sp-06: 40px;
+--sp-07: 48px;
+--sp-08: 56px;
+--sp-09: 64px;
+--sp-10: 72px;
+ 
+
+ /* Shadow */
+--shadow-03: 0px 3px 10px 2px rgba(0,0,0,0.10);
+--shadow-04: 0px 6px 15px 4px rgba(0,0,0,0.15);
+
+
+ /* Border radius= */
+--radius-01: 4px;
+--radius-02: 8px;
+--radius-03: 12px;
+--radius-04: 16px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

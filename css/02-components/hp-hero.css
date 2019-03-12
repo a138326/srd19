@@ -1,0 +1,36 @@
+/*
+–––––––––––––––––––––––––––––––––––––––
+Container
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+#hp-hero {
+	height: 500px;
+	width: 100%;
+	padding: var(--sp-04) 96px;
+	background-color: var(--c03-gray-02);
+	text-align: center;
+	display: flex;
+}
+#hp-hero .hero-content {
+	max-width: 600px;
+	margin: auto;
+}
+#hp-hero  h1, 
+#hp-hero  p {
+	color: #fff;
+}
+#hp-hero h1 {
+	font-size: var(--hd-size-md);
+	margin-bottom: var(--sp-03);
+}
+#hp-hero p {
+	font-size: var(--bd-size-lg);
+	margin-bottom: var(--sp-04);
+}
+#hp-hero .bttn {
+	margin: 0 auto;
+	margin-bottom: var(--sp-04);
+}
+#hp-hero p.disclaimer {
+	font-size: var(--bd-size-xs);
+	margin-bottom: var(--sp-04);
+}
