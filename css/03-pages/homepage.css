@@ -9,6 +9,9 @@ Import base styles
 @import "../01-objects/buttons.css";
 @import "../01-objects/type.css";
 
+@import "../02-components/gb-footer.css";
 @import "../02-components/hp-hero.css";
 @import "../02-components/hp-tab.css";
+@import "../02-components/hp-why.css";
+@import "../02-components/hp-app.css";
 @import "../02-components/main-nav.css";

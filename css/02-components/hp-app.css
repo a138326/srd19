@@ -1,0 +1,39 @@
+/*
+–––––––––––––––––––––––––––––––––––––––
+Container
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+#hp-app {
+	margin-bottom: 0;
+	height: 700px;
+	width: 100%;
+	background-image: url("../../image-mock/hp-app.jpg");
+    background-repeat: no-repeat, no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.hp-app-content-wrapper {
+	max-width: 1216px;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	height: 700px;
+}
+.hp-app-content {
+	width: 50%;
+}
+
+
+.hp-app-content-wrapper h1 {
+	font-size: var(--hd-size-lg);
+	font-weight: 300;
+	margin-bottom: var(--sp-06);
+	width: 100%;
+}
+.hp-app-content-wrapper p {
+	font-family: var(--font-hd);
+	font-size: var(--bd-size-xl);
+	margin-bottom: var(--sp-06);
+	width: 100%;
+}

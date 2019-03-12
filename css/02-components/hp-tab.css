@@ -5,6 +5,7 @@ Container
 #hp-tab {
 	background: #FFF;
 	width: 100%;
+	padding-bottom: var(--sp-07);
 }
 .hp-tab-content-wrapper {
 	max-width: 1216px;
@@ -79,4 +80,10 @@ CTAs
 	display: flex;
 	justify-content: space-around;
 	margin-bottom: var(--sp-05);
+}
+.hp-tab-btns-wrapper {
+	display: flex;
+}
+.hp-tab-btns-wrapper div {
+	margin: 0 var(--sp-05);
 }

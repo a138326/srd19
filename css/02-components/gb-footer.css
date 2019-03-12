@@ -1,0 +1,19 @@
+/*
+–––––––––––––––––––––––––––––––––––––––
+Container
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+#gb-footer {
+	width: 100%;
+	background-color: var(--c01-dark);
+}
+
+
+.gb-footer-content {
+	max-width: 1440px;
+	margin: 0 auto;
+}
+
+.gb-footer-content img {
+	width: 1440px;
+	height: auto;
+}

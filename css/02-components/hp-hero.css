@@ -6,9 +6,16 @@ Container
 	height: 500px;
 	width: 100%;
 	padding: var(--sp-04) 96px;
-	background-color: var(--c03-gray-02);
 	text-align: center;
 	display: flex;
+	
+	
+	height: 640px;
+	width: 100%;
+	background-image: url("../../image-mock/hp-hero-01.jpg");
+    background-repeat: no-repeat, no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 #hp-hero .hero-content {
 	max-width: 600px;
