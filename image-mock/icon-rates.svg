@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>icon-rates</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-rates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="crypto-currency-bitcoin-decrease" transform="translate(6.000000, 5.000000)" stroke="#001CBD" stroke-width="2">
+            <polyline id="Shape" points="60 51 60 63 48 63"></polyline>
+            <path d="M60,63 L45.5714286,49.0576923 C43.8993399,47.4425371 41.4452546,46.8435969 39.18,47.4978104 L22.8571429,51.710872 C20.6400474,52.284684 18.2745572,51.6721987 16.6514286,50.1040556 L0,34" id="Shape"></path>
+            <path d="M5.42850182,25.2945348 C3.31940215,15.0457042 9.16841523,4.82501285 19.1801444,1.26461851 C29.1918735,-2.29577583 40.3493122,1.87704175 45.4124517,11.0753498 C50.4755912,20.2736579 47.9186686,31.7255721 39.4008588,38" id="Shape"></path>
+            <g id="Group-6" transform="translate(20.983500, 9.082018)">
+                <path d="M8.96430681,3.98508772 L3.56318459,3.98508772 C1.85591489,3.98628014 0.389106812,5.19759863 0.065131335,6.87384775 C-0.258844142,8.55009687 0.650953278,10.2207516 2.23482201,10.8580357 L7.71830272,13.0524906 C9.30217145,13.6897748 10.2119689,15.3604294 9.88799339,17.0366786 C9.56401792,18.7129277 8.09720983,19.9242462 6.38994014,19.9254386 L0.99413137,19.9254386" id="Shape"></path>
+                <path d="M4.97921909,3.98508772 L4.97921909,1.05915277e-13" id="Shape"></path>
+                <path d="M4.97921909,23.9105263 L4.97921909,19.9254386" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

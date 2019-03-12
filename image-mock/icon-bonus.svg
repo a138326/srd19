@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>icon-bonus</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-bonus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(25.000000, -22.000000)">
+            <g id="Group-5" transform="translate(24.000000, 0.000000)"></g>
+            <circle id="Oval" stroke="#001CBD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="10.5" cy="35.5" r="10.5"></circle>
+            <path d="M13.999703,31.0052748 L9.79261234,31.0052748 C9.30774515,30.9665514 8.83028671,31.1424431 8.48634284,31.4864934 C8.14239898,31.8305437 7.96656178,32.30815 8.00527319,32.7931672 C8.00527319,34.7529532 13.999703,36.2520245 13.999703,38.2118105 C14.0084664,38.6886224 13.8229735,39.1484909 13.485864,39.4857048 C13.1487544,39.8229187 12.6890282,40.0084691 12.2123638,39.9997029 L8.00527319,39.9997029" id="Shape" stroke="#001CBD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M11,31 L11,29" id="Shape" stroke="#001CBD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M11,43 L11,41" id="Shape" stroke="#001CBD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+        <text id="160" font-family="TitilliumWeb-Regular, Titillium Web" font-size="48" font-weight="normal" line-spacing="80" letter-spacing="-1.5" fill="#001CBD">
+            <tspan x="-7" y="61">160</tspan>
+        </text>
+    </g>
+</svg>

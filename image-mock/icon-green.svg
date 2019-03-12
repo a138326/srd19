@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>icon-green</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-green" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group" transform="translate(14.000000, 3.000000)" stroke="#001CBD" stroke-width="2">
+            <g id="Regular">
+                <path d="M43.7708333,35.7100694 C43.7708333,47.9159459 34.0236992,57.8107639 22,57.8107639 C9.97630076,57.8107639 0.229166667,47.9159459 0.229166667,35.7100694 C0.229166667,20.2395833 15.46875,0.348958333 22,0.348958333 C28.53125,0.348958333 43.7708333,20.2395833 43.7708333,35.7100694 Z" id="Shape"></path>
+                <path d="M22,22.4496528 L22,66.6510417" id="Shape"></path>
+                <path d="M32.8854167,35.7100694 C32.8854167,38.6408037 31.7385636,41.4515028 29.6971519,43.5238449 C27.6557403,45.596187 24.886992,46.7604167 22,46.7604167" id="Shape"></path>
+                <path d="M22,37.9201389 C17.1905203,37.9201389 13.2916667,33.9622117 13.2916667,29.0798611" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
