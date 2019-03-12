@@ -1,0 +1,22 @@
+/*
+–––––––––––––––––––––––––––––––––––––––
+Container
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+#plp-hero {
+	
+}
+
+.plp-hero-img {
+	height: 540px;
+	width: 100%;
+	overflow: hidden;
+}
+.plp-hero-img img {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.plp-why-choose-hd {
+	font-weight: 600;
+	color: var(--c01-dark);
+}

@@ -1,0 +1,42 @@
+/*
+–––––––––––––––––––––––––––––––––––––––
+Container
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+#plp-intro {
+	margin-bottom: var(--sp-11);
+	background-color: var(--c01-dark-02);
+}
+.plp-intro-wrapper {
+	width: 1216px;
+	margin: 0 auto;
+	padding: var(--sp-06) 0;
+	display: flex;
+}
+.plp-intro-wrapper-set-01 {
+	width: 488px;
+	margin-left: 208px;
+	margin-right: 136px;
+}
+.plp-intro-wrapper h1 {
+	color: #fff;
+	font-size: var(--hd-size-lg);
+	margin-bottom: var(--sp-04);
+}
+.plp-intro-wrapper p {
+	color: #fff;
+	font-size: var(--bd-size-xl);
+	font-weight: 300;
+}
+
+.plp-intro-wrapper-set-02 {
+	width: 384px;
+}
+.plp-plan-card-wrapper {
+	position: relative; 
+}
+.plp-plan-card-wrapper img {
+	position: absolute;
+	top:-480px;
+	width: 100%;
+	height: auto;
+}

@@ -4,6 +4,7 @@
 /* Primary Colours */
 --c01-light: #00DFED;
 --c01-dark: #001CB0;
+--c01-dark-02: #001275;
 
 
 /* Secondary Colours */ 
@@ -68,6 +69,8 @@
 --sp-08: 56px;
 --sp-09: 64px;
 --sp-10: 72px;
+--sp-11: 96px;
+--sp-12: 120px;
  
 
  /* Shadow */

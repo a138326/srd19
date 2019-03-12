@@ -1,0 +1,19 @@
+/*
+–––––––––––––––––––––––––––––––––––––––
+Container
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+#plp-looking {
+	width: 100%;
+	background-color: var(--c01-dark-02);
+}
+
+
+.plp-looking-content {
+	max-width: 1216px;
+	margin: 0 auto;
+}
+
+.plp-looking-content  img {
+	width: 1216px;
+	height: auto;
+}

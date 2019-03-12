@@ -1,0 +1,18 @@
+/*
+–––––––––––––––––––––––––––––––––––––––
+Import base styles
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+
+@import "../00-foundation/reset.css";
+@import "../00-foundation/variables.css";
+
+@import "../01-objects/buttons.css";
+@import "../01-objects/type.css";
+
+@import "../02-components/gb-footer.css";
+@import "../02-components/plp-looking.css";
+@import "../02-components/plp-hero.css";
+@import "../02-components/plp-intro.css";
+@import "../02-components/plp-why-choose.css";
+
+@import "../02-components/main-nav.css";

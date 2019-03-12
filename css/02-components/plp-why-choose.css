@@ -1,0 +1,17 @@
+/*
+–––––––––––––––––––––––––––––––––––––––
+Container
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+#plp-why-choose {
+	width: 800px;
+	margin: 0 auto;
+	margin-bottom: var(--sp-11);
+}
+
+#plp-why-choose h1 {
+	font-family: var(--font-bd);
+	font-weight: 300;
+	font-size: var(hd-size-xs);
+	line-height: 1.5;
+	margin-bottom: var(--sp-05);
+}
