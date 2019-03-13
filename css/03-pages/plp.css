@@ -27,3 +27,7 @@ Import base styles
 .plp-bg-white-section {
 	background-color: #fff;
 }
+
+#plp-statement-02 {
+	display: none;
+}
