@@ -63,13 +63,15 @@
 	"plp-why-point-02-hd": "Focused on renewables",
 	"plp-why-point-02-bd": "AGL is the lead ASX-listed investor in renewable energy & offers green energy options",
 	"plp-why-img-03": "image-mock/why-renewable.jpg",
-	"plp-why-point-03-hd": "Help when you need it",
-	"plp-why-point-03-bd": "we offer financial hardship support when times are tough",
+	"plp-why-point-03-hd": "Moving made easy",
+	"plp-why-point-03-bd": "It’s quick and easy to switch or sign up to AGL online.",
 	"plp-green-img": "https://a138326.github.io/srd19/images/plp-app2.jpg",
 	"plp-green-hd": "Power in your hands",
 	"plp-green-bd": "Manage your electricity and gas accounts wherever, whenever with the AGL Energy App. View bills, update details, enter meter readings and more.",
 	"plp-green-cta": "Find out more",
 	"plp-statement-02-hd": "Looking for something different?",
 	"plp-statement-02-bd": "We strive to provide plans to suit your different needs.",
-	"gb-footer-img": "image-mock/gb-footer.png"
+	"gb-footer-img": "image-mock/gb-footer.png",
+	"plp-why-img-01b": "image-mock/why-aus-02.jpg",
+	"plp-why-img-02b": "image-mock/why-renew-02.jpg"
 }
