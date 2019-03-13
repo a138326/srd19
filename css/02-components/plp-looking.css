@@ -6,7 +6,10 @@ Container
 	width: 100%;
 	background-color: var(--c01-dark-02);
 }
-
+#plp-looking:hover {
+	opacity: 0.9;
+	cursor: pointer;
+}
 
 .plp-looking-content,
 .plp-looking-content-expanded {

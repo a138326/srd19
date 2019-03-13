@@ -14,6 +14,7 @@ Import base styles
 @import "../02-components/plp-hero.css";
 @import "../02-components/plp-intro.css";
 @import "../02-components/plp-why-choose.css";
+@import "../02-components/plp-why.css";
 @import "../02-components/plp-tabs.css";
 @import "../02-components/plp-sticky-nav.css";
 @import "../02-components/plp-statement.css";

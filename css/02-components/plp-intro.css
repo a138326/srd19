@@ -4,7 +4,7 @@ Container
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
 #plp-intro {
 	
-	background-color: var(--c01-dark-02);
+	background-color: var(--c01-dark);
 }
 .plp-intro-wrapper {
 	width: 1216px;
@@ -34,9 +34,26 @@ Container
 .plp-plan-card-wrapper {
 	position: relative; 
 }
-.plp-plan-card-wrapper img {
+.plp-plan-card-content {
 	position: absolute;
-	top:-480px;
+	top:-493px;
+	text-align: center;
+}
+
+.plp-plan-card-wrapper img {
 	width: 100%;
 	height: auto;
+}
+.plp-plan-card-btn-wrapper {
+	width: 100%;
+	background-color: #fff;
+	padding: var(--sp-04);
+	margin-top: -4px;
+}
+.plp-plan-card-btn-wrapper .bttn {
+	width: 100%;
+	margin-bottom: var(--sp-04);
+}
+.plp-plan-card-btn-wrapper .bttn-secondary {
+	margin-bottom: 0;
 }

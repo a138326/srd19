@@ -120,7 +120,7 @@ Core button style
 
 /* Core style */
 button, .bttn {
-	font-family: var(--font-hd);
+	font-family: var(--font-bd);
 	height: var(--btn-height);
 	line-height: var(--btn-height);
 	width: var(--btn-width);
@@ -133,7 +133,8 @@ button, .bttn {
 	font-size: var(--btn-font-size);
 	font-weight: var(--btn-font-weight);
 	letter-spacing: var(--btn-letter-spacing);
-	text-transform: uppercase;
+	letter-spacing: 0;
+	/*text-transform: uppercase;*/
 	text-align: center;
 }
 
@@ -239,6 +240,65 @@ Primary
 
 
 /*–––––––––––––––––––––––––––––––––––––––
+Secondary – alt
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+.bttn-secondary-alt {
+	background: var(--btn-02-col-02);
+	color: white;
+	position: relative;
+	z-index: 100;
+	border: none;
+}
+.bttn-secondary-alt:hover,	.bttn-secondary-alt.hover {
+	line-height: var(--btn-height);
+	border: none;
+	color: var(--btn-02-hover-text);
+	box-shadow: var(--btn-shadow-02);
+}
+.bttn-secondary-alt:before {
+	border-radius: var(--btn-radius);
+	background-color: var(--btn-02-hover-bg);
+	background-image: linear-gradient(var(--btn-02-hover-bg-grad));
+	background-image: -webkit-linear-gradient(var(--btn-02-hover-bg-grad));
+	content: '';
+	display: block;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	opacity: 0;
+	z-index: -100;
+	transition: 			opacity 		0.25s ease-in-out;
+}
+.bttn-secondary-alt:hover:before {
+  opacity: 1;
+}
+.bttn-secondary-alt:active:before,
+.bttn-secondary-alt.active {
+	color: var(--btn-02-hover-text);
+	box-shadow: none;
+	background-image: linear-gradient(var(--btn-02-active-bg-grad));
+	background-image: -webkit-linear-gradient(var(--btn-02-active-bg-grad));
+}
+/* for showcase */
+.bttn-secondary-alt.hover {
+	color: var(--btn-02-hover-text);
+	background-image: linear-gradient(var(--btn-02-hover-bg-grad));
+	background-image: -webkit-linear-gradient(var(--btn-02-hover-bg-grad));
+	box-shadow: var(--btn-shadow-01);
+}
+.bttn-secondary-alt.focus {
+	background-color: var(--btn-02-focus-bg);
+}
+.bttn-secondary-alt.loading {
+	background-color: var(--btn-02-active-bg);
+	background-image: linear-gradient(var(--btn-02-active-bg-grad));
+	background-image: -webkit-linear-gradient(var(--btn-02-active-bg-grad));
+}
+
+
+/*–––––––––––––––––––––––––––––––––––––––
 Secondary
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
 .bttn-secondary {
@@ -299,7 +359,7 @@ Secondary
 
 
 /*–––––––––––––––––––––––––––––––––––––––
-Secondary – Reverse
+Secondary – alt
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
 .bttn-secondary-reverse {
 	background: var(--btn-03-bg);

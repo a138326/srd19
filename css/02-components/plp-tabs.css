@@ -59,11 +59,19 @@ Features
 	height: 312px;
 	transition: all .3s ease-in-out;
 	background-color: #fff;
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	
 }
 .plp-features-block img {
 	width: 72px;
 	height: 72px;
-	margin-top: 90px;
+}
+.plp-features-icon {
+	width: 100%;
+	height: 72px;
+	margin-bottom: var(--sp-03);
 }
 .plp-features-block h2 {
 	font-family: var(--font-bd);
@@ -88,7 +96,7 @@ Features
 	display: block;
 }
 .plp-features-block:hover h2,
-.plp-features-block:hover img {
+.plp-features-block:hover .plp-features-icon {
 	display: none;
 }
 

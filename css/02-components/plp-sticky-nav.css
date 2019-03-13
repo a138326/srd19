@@ -1,9 +1,11 @@
 /*
 –––––––––––––––––––––––––––––––––––––––
-Container
+Nav
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
 #plp-sticky-nav {
-	background-color: #F5F5F5;
+	background-color: #fff;
+	background-image: url("../../image-mock/sticky-nav-bg.png");
+	height: 80px;
 	width: 100%;
 	box-shadow: 0 3px 8px 0 rgba(0,0,0,0.20);
 	z-index: 999;
@@ -23,3 +25,7 @@ Container
 	height: auto;
 }
 
+/*
+–––––––––––––––––––––––––––––––––––––––
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
