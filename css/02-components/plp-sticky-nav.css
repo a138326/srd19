@@ -2,20 +2,24 @@
 –––––––––––––––––––––––––––––––––––––––
 Container
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
-#plp-looking {
+#plp-sticky-nav {
+	background-color: #F5F5F5;
 	width: 100%;
-	background-color: var(--c01-dark-02);
+	box-shadow: 0 3px 8px 0 rgba(0,0,0,0.20);
+	z-index: 999;
+	position: fixed;
+	width: 100%;
+	left: 0;
+	top: 0;
+	z-index: 100;
+	border-top: 0;
 }
-
-
-.plp-looking-content,
-.plp-looking-content-expanded {
+.plp-sticky-nav-wrapper  {
 	max-width: 1216px;
 	margin: 0 auto;
 }
-
-.plp-looking-content  img,
-.plp-looking-content-expanded img {
-	width: 1216px;
+.plp-sticky-nav-wrapper img {
+	width: 100%;
 	height: auto;
 }
+

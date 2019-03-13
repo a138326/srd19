@@ -1,0 +1,37 @@
+/*
+–––––––––––––––––––––––––––––––––––––––
+Container
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+#plp-statement,
+#plp-statement-02 {
+	width: 100%;
+	padding: var(--sp-11) 0;
+}
+#plp-statement-02 {
+	background-color: var(--c01-dark);
+}
+.plp-statement-wrapper {
+	max-width: 700px;
+		margin: 0 auto;
+	text-align: center;
+}
+#plp-statement h1,
+#plp-statement-02 h1  {
+		font-family: var(--font-bd);
+		font-weight: 400;
+		line-height: 1.5;
+}
+#plp-statement h2,
+#plp-statement-02 h2  {
+		font-family: var(--font-bd);
+		font-weight: 300;
+		line-height: 1.5;
+}
+
+#plp-statement-02 h1 {
+	color: var(--c01-light);
+}
+#plp-statement-02 h2 {
+	color: #fff;
+}
+

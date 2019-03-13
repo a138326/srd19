@@ -1,0 +1,44 @@
+/*
+–––––––––––––––––––––––––––––––––––––––
+Container
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+#plp-green {
+	width: 100%;
+	padding: var(--sp-11) 0;
+	background-color: #fff;
+}
+
+
+.plp-green-content-wrapper {
+	max-width: 1216px;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+}
+.plp-green-content {
+	width: 50%;
+	padding: 0 var(--sp-09);
+}
+
+.plp-green-img {
+	width: 50%;
+}
+
+.plp-green-img img {
+	width: 100%;
+	height: auto;
+}
+.plp-green-content-wrapper h1 {
+	font-size: var(--hd-size-md);
+	font-weight: 300;
+	margin-bottom: var(--sp-06);
+	width: 100%;
+}
+.plp-green-content-wrapper p {
+	font-family: var(--font-bd);
+	font-size: var(--bd-size-xl);
+	font-weight: 300;
+	line-height: 1.5;
+	margin-bottom: var(--sp-06);
+	width: 100%;
+}

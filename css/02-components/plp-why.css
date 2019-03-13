@@ -1,0 +1,86 @@
+/*
+–––––––––––––––––––––––––––––––––––––––
+Container
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+#hp-why {
+	background: var(--c03-gray-07);
+	width: 100%;
+	padding-top: var(--sp-09);
+}
+.hp-why-cards-wrapper {
+	max-width: 1216px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	margin-bottom: var(--sp-09);
+	padding-bottom: var(--sp-08);
+	height: 480px;
+}
+
+
+/*
+–––––––––––––––––––––––––––––––––––––––
+Intro
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+.hp-why-intro {
+	max-width: 700px;
+	margin: 0 auto;
+	text-align: center;
+	font-family: var(--font-bd);
+	margin-bottom: var(--sp-08);
+}
+
+
+/*
+–––––––––––––––––––––––––––––––––––––––
+Why card
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
+
+.hp-why-card {
+	width: 384px;	
+	background-color: var(--c01-dark);
+	transition: all .3s ease-in-out;
+}
+.hp-why-card h2 {
+	color: #fff;
+	padding: var(--sp-03) var(--sp-04);
+	font-family: var(--font-bd);
+	font-size: var(--bd-size-xl);
+}
+.hp-why-card p {
+	display: none;
+}
+
+.hp-why-card img {
+	width: 384px;
+	height: 384px;
+
+}
+.hp-why-img {
+	overflow: hidden;
+	height: 384px;
+}
+.hp-why-card:hover {
+	cursor: pointer;
+	background: #fff;
+	transform: scale(1.02) translateY(-8px);
+	box-shadow: 0 0 11px 0 rgba(0,0,0,0.10);
+}
+.hp-why-card:hover h2 {
+	color: var(--c03-gray-01);
+}
+.hp-why-card:hover p {
+	display: block;
+	color: color: var(--c03-gray-01);
+	padding: var(--sp-03) var(--sp-04);
+	padding-top: 0;
+	font-size: var(--bd-size-lg);
+}
+.hp-why-card:hover .hp-why-img {
+	height: 334px;
+}
+.hp-why-card:hover img {
+	position: relative;
+	top: -25px;
+}

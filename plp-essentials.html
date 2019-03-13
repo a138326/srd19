@@ -29,6 +29,7 @@
 <body class="">
 <main mv-app class="mavo-manage" mv-storage="https://github.com/a138326/srd19" mv-init="mavo1.json" >
 	
+	
 <!-- Nav -->
 <nav id="main-nav" aria-label="Main navigation">
 	<div id="main-nav-logo"><a href="index.html"><img src="image/agl_logo.svg" alt="agl logo"></a></div>
@@ -47,11 +48,22 @@
 </nav>
 <!-- /Nav -->
 
+<!-- sticky tab -->
+<section id="plp-sticky-nav" class="followMeBar">
+	<div class="plp-sticky-nav-wrapper">
+		<img src="image-mock/sticky-nav.png" alt="" property="plp-sticky-img" >
+	</div>
+</section>
+<!-- /sticky tab -->
+
+
 <!-- looking -->
 <section id="plp-looking">
 	<div class="plp-looking-content"><img src="image-mock/plp-looking.png" alt="" property="plp-looking-img" ></div>
+	<div class="plp-looking-content-expanded"><img src="image-mock/plp-looking-expanded.png" alt="" property="plp-looking-expanded-img" ></div>
 </section>
 <!-- /looking -->
+
 
 
 <!-- hero -->
@@ -59,6 +71,7 @@
 	<div class="plp-hero-img"><img src="image-mock/plp-hero.jpg" alt="" property="plp-hero-img" ></div>
 </section>
 <!-- /hero -->
+
 
 
 <!-- intro -->
@@ -76,15 +89,20 @@
 <!-- /intro -->
 
 
+<!-- White background -->
+<div class="plp-bg-white-section">
+	
 <!-- why choose -->
 <section id="plp-why-choose">
 	<h1>
-		<span property="plp-why-hd-01" class="plp-why-choose-hd">Why choose this plan. </span>
-		<span property="plp-why-hd-02">It’s not just about good prices - we pack our plans with great features so you know that by going with AGL you’ll see the benefits.</span>
+		<span property="plp-why-choose-hd-01" class="plp-why-choose-hd">Why choose this plan. </span>
+		<span property="plp-why-choose-hd-02">It’s not just about good prices - we pack our plans with great features so you know that by going with AGL you’ll see the benefits.</span>
 	</h1>
-	<h1 property="plp-why-hd-03">What’s more, Essentials Plus rates remain fixed for at least 2 years. So what you see today is what you get. No rate increases and no lock-in contract.</h1>
+	<h1 property="plp-why-choose-hd-03">What’s more, Essentials Plus rates remain fixed for at least 2 years. So what you see today is what you get. No rate increases and no lock-in contract.</h1>
 </section>
 <!-- /why choose -->
+
+
 
 
 <!-- details tab -->
@@ -96,6 +114,8 @@
 </section>
 <!-- /details tab -->
 
+
+<!-- features -->
 <section id="plp-features-content">
 	<div class="plp-features-wrapper">
 		
@@ -146,15 +166,86 @@
 			<h2 	property="plp-feature-block-08-hd">		Available with monthly e-billing</h2>
 			<p 		property="plp-feature-block-08-bd">		Text to come</p>
 		</div>
-		
-		
-		
+
 	</div>
 </section>
+<!-- features -->
+
+
+<!-- rates tab -->
+<section id="plp-rates-content">
+	<div class="plp-rates-wrapper">
+		<div id="plp-rates-empty" class="plp-rates-info-img">
+				<img 	property="plp-rates-empty"		src="image-mock/plp-rates-01.png" alt=""  >
+		</div>
+		<div id="plp-rates-complete" class="plp-rates-info-img">
+				<img 	property="plp-rates-complete"		src="image-mock/plp-rates-02.png" alt=""  >
+		</div>
+	</div>
+</section>
+<!-- /rates tab -->
+
+
+<!-- statement tab -->
+<section id="plp-statement">
+	<div class="plp-statement-wrapper">
+		<h1 property="plp-statement-hd">People choose AGL for a good reason</h1>
+		<h2 property="plp-statement-bd">Providing Australian energy to your home is just the tip of what we offer.</h2>
+	</div>
+</section>
+<!-- /statement tab -->
+
+</div>
+<!-- white background -->
 
 
 
+<!-- Why -->
+<section id="hp-why">
+	<div class="hp-why-cards-wrapper">
+		<div class="hp-why-card hp-why-01">
+			<div class="hp-why-img"><img src="image-mock/why-aus.jpg" alt="renewable" property="plp-why-img-01" ></div>
+			<h2 property="plp-why-point-01-hd">Simple prices that work</h2>
+			<p property="plp-why-point-01-bd">Text to come, short, snappy and no longer then two lines</p>
+		</div>
+		<div class="hp-why-card hp-why-02">
+			<div class="hp-why-img"><img src="image-mock/why-community.jpg" alt="renewable" property="plp-why-img-02" ></div>
+			<h2 property="plp-why-point-02-hd">Renewable at the core</h2>
+			<p property="plp-why-point-02-bd">Text to come, short, snappy and no longer then two lines.</p>
+		</div>
+		<div class="hp-why-card hp-why-03">
+			<div class="hp-why-img"><img src="image-mock/why-renewable.jpg" alt="renewable" property="plp-why-img-03" ></div>
+			<h2 property="plp-why-point-03-hd">Moving made easy</h2>
+			<p property="plp-why-point-03-bd">Text to come, short, snappy and no longer then two lines</p>
+		</div>
+	</div>
+</section>
+<!-- /Why -->
 
+
+
+<!-- Green -->
+<section id="plp-green">
+	<div class="plp-green-content-wrapper">
+		<div class="plp-green-img"><img src="image-mock/plp-green.jpg" alt="" property="plp-green-img" ></div>
+		<div class="plp-green-content">
+			<h1 property="plp-green-hd">Lean with a little green</h1>
+			<p property="plp-green-bd">Did you know that AGL is leading the way for providing renewable energy. AGL Green Choice add-ons are available on all of our plans.</p>
+			<a href="#" aria-role="button"> <div class="bttn bttn-secondary" property="plp-green-cta">Find out more</div></a>
+		</div>
+	</div>
+</section>
+<!-- /Green -->
+
+
+<!-- statement tab -->
+<section id="plp-statement-02">
+	<div class="plp-statement-wrapper">
+		<h1 property="plp-statement-02-hd">People choose AGL for a good reason</h1>
+		<h2 property="plp-statement-02-bd">Providing Australian energy to your home is just the tip of what we offer.</h2>
+	</div>
+</section>
+<!-- /statement tab -->
 
 <!-- footer -->
 <footer id="gb-footer">
@@ -165,6 +256,71 @@
 
 
 
+ <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="js/jquery-slim.min.js"><\/script>')</script>
+    
+    <!-- Disbale enable stylesheets -->
+    <script>
+	    
+	    $("#plp-rates-content").hide();
+	    $("#plp-rates-complete").hide();
+	    
+	    $("#plp-rates-tab-label").click(function() {
+        	$("#plp-rates-content").show();
+        	$("#plp-features-content").hide();
+        	$( "#plp-benefits-tab-label" ).removeClass( "active" );
+        	$( "#plp-rates-tab-label" ).addClass( "active" );
+		});
+		$("#plp-benefits-tab-label").click(function() {
+        	$("#plp-rates-content").hide();
+        	$("#plp-features-content").show();
+        	$( "#plp-benefits-tab-label" ).addClass( "active" );
+        	$( "#plp-rates-tab-label" ).removeClass( "active" );
+		});
+	    $("#plp-rates-empty").click(function() {
+        	$("#plp-rates-complete").show();
+        	$("#plp-rates-empty").hide();
+		});
+		$("#plp-rates-complete").click(function() {
+        	$("#plp-rates-complete").hide();
+        	$("#plp-rates-empty").show();
+		});
+		
+		
+		$(".plp-looking-content-expanded").hide();
+		
+		$(".plp-looking-content").click(function() {
+        	$(".plp-looking-content-expanded").show();
+        	$(".plp-looking-content").hide();
+		});
+		
+		$(".plp-looking-content-expanded").click(function() {
+        	$(".plp-looking-content-expanded").hide();
+        	$(".plp-looking-content").show();
+		});
+		
+		$('#plp-sticky-nav').hide();
+		
+		var stickyNav = function(){
+			var scrollTop = $(window).scrollTop();
+			if (scrollTop > 722) { 
+				$('#plp-sticky-nav').show();
+			} 
+			if (scrollTop < 721) { 
+				$('#plp-sticky-nav').hide();
+			} 
+		};
+		
+		$(window).scroll(function() {
+				stickyNav();
+			});
+
+
+		
+	
+		
+	  </script>
+	  
 
 
 </body>
