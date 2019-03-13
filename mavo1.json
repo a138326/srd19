@@ -12,7 +12,7 @@
 	"plp-sticky-img": "image-mock/sticky-nav.png",
 	"plp-looking-img": "image-mock/plp-looking.png",
 	"plp-looking-expanded-img": "image-mock/plp-looking-expanded.png",
-	"plp-hero-img": "image-mock/plp-hero.jpg",
+	"plp-hero-img": "https://a138326.github.io/srd19/images/plp-hero.jpg",
 	"plp-plan-name": "Essentials Plus",
 	"plp-plan-desc": "No frills, no gimmicks, no rate rises. Just low rates, guaranteed for 2 years with no lock-in contract.",
 	"plp-card-hero": [
