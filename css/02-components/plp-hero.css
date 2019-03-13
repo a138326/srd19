@@ -12,8 +12,8 @@ Container
 	overflow: hidden;
 }
 .plp-hero-img img {
-	width: 100%;
-	height: auto;
+	height: 540px;
+	width: auto;
 	position: relative;
 	top: 50%;
 	transform: translateY(-50%);
